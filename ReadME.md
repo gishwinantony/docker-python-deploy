@@ -33,8 +33,8 @@ Ensure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/gishwinantony/.git
-cd your-repo
+git clone https://github.com/gishwinantony/docker-python-deploy.git
+cd docker-python-deploy
 ```
 
 ### 2️⃣ Configure Environment Variables
